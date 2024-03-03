@@ -1,0 +1,22 @@
+body{
+	height:500px;
+	background: #000000f7;
+}
+img {margin-left: 0px;margin-top: 0px;padding: 0px;border-radius: 147px;width: 268px;}
+
+
+.bossImg {
+    border: 2px solid black;
+    width: 268px;
+    margin-left: 150px;
+    margin-top: 230px;
+    padding: 4px;
+    border-radius: 180px;
+    box-shadow: 0px 0px 27px 25px #0ef;
+    position: absolute;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
